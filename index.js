@@ -1,7 +1,7 @@
 const usuario = "antonio.silva4721@aluno.ce.gov.br"
 const senha = "@EEEp.2026"
 
-let usuarioDigitado = "antonio.silva4721"
+let usuarioDigitado = "antonio.silva4721@aluno.ce.gov.br"
 let senhaDigitada = "@EEEp.2026"
 
 if (!usuarioDigitado || !senhaDigitada) {
